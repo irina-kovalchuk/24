@@ -1,0 +1,8 @@
+Summary
+Project
+Severity
+Proirity
+Steps to Reproduce
+Actual Result
+Expected Result
+Additional information
